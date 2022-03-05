@@ -1,0 +1,41 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 592
+  ClientWidth = 347
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object VertScrollBox1: TVertScrollBox
+    Align = Client
+    Margins.Left = 8.000000000000000000
+    Margins.Top = 16.000000000000000000
+    Margins.Right = 8.000000000000000000
+    Margins.Bottom = 16.000000000000000000
+    Size.Width = 331.000000000000000000
+    Size.Height = 471.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 331.000000000000000000
+    Viewport.Height = 471.000000000000000000
+  end
+  object Layout1: TLayout
+    Align = Top
+    Size.Width = 347.000000000000000000
+    Size.Height = 89.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Button1: TButton
+      Position.X = 136.000000000000000000
+      Position.Y = 32.000000000000000000
+      TabOrder = 0
+      Text = 'Button1'
+      OnClick = Button1Click
+    end
+  end
+end

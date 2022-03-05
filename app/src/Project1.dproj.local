@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/09 17:19:44.000.269,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 07:46:50.000.100,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/05 17:21:21.334,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/05 17:22:12.652,G:\Meu Drive\Gabriel\Delphi Na Veia\youtube\carregamento sobre demanda\fonte\CarregamentoDeImagensSobDemanda\app\src\Unit1.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/05 17:22:12.652,G:\Meu Drive\Gabriel\Delphi Na Veia\youtube\carregamento sobre demanda\fonte\CarregamentoDeImagensSobDemanda\app\src\Unit1.fmx=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/03/05 17:22:16.767,G:\Meu Drive\Gabriel\Delphi Na Veia\youtube\carregamento sobre demanda\fonte\CarregamentoDeImagensSobDemanda\app\src\Project1.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/05 17:22:27.878,=G:\Meu Drive\Gabriel\Delphi Na Veia\youtube\carregamento sobre demanda\fonte\CarregamentoDeImagensSobDemanda\app\src\uFrameLista.pas</Transaction>
+    <Transaction>2022/03/05 17:22:38.048,G:\Meu Drive\Gabriel\Delphi Na Veia\youtube\carregamento sobre demanda\fonte\CarregamentoDeImagensSobDemanda\app\src\uFrameLista.pas=</Transaction>
+    <Transaction>2022/03/05 17:22:41.496,=G:\Meu Drive\Gabriel\Delphi Na Veia\youtube\carregamento sobre demanda\fonte\CarregamentoDeImagensSobDemanda\app\src\uFrameLista.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="RQ8R404KA7N" Android="RQ8R404KA7N"/>
+	</ActiveMobileDevice>
+</BorlandProject>
